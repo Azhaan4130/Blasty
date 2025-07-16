@@ -55,12 +55,12 @@ const Home = () => {
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6">
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-botBlue to-botBlue-dark">
-                All-In-One
+                Blasty
               </span>{" "}
-              Discord Bot
+              Bot
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-8">
-              A powerful, feature-rich bot designed to enhance your Discord server with moderation tools, utilities, games, logging, and more.
+              A powerful, feature-rich bot designed to enhance your Discord server with moderation tools, antinuke, utilities, games, logging, and more.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
@@ -90,7 +90,7 @@ const Home = () => {
                   <div className="w-3 h-3 rounded-full bg-green-500" />
                 </div>
                 <div className="flex-1 text-center text-white text-sm font-medium">
-                  Discord Bot - All In One
+                  Blasty - Multipurpose Bot
                 </div>
               </div>
               <div className="p-4 bg-gray-800 text-white">
@@ -104,7 +104,7 @@ const Home = () => {
                       <span className="text-xs text-gray-400">Today at 12:30 PM</span>
                     </div>
                     <div className="mt-1 text-sm">
-                      Hello! I'm your new All-In-One bot. Type <span className="bg-gray-700 px-1 rounded">/help</span> to see what I can do!
+                      Hello! I'm Blasty. Type <span className="bg-gray-700 px-1 rounded">/help</span> to see what I can do!
                     </div>
                   </div>
                 </div>
